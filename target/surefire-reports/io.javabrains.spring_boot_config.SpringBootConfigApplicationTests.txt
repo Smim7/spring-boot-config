@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.javabrains.spring_boot_config.SpringBootConfigApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.549 s -- in io.javabrains.spring_boot_config.SpringBootConfigApplicationTests
